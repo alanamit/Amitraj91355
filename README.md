@@ -1,4 +1,4 @@
-[!MasterHead](https://1.bp.blogpost.com/-7A4WynwLsMw/xbBpCXG8fHI/AAAAAAAAMt4/u0a1bplskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://alanamit.io)
+
 <h1 align="center">Hi 👋, I'm Amit Raj</h1>
 <h3 align="center">BCA Student | Exploring the Web Development World</h3>
 <img align="right" alt="coading width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
